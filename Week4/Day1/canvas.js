@@ -2,7 +2,7 @@
 var canvas = document.getElementById('canvas')
 //Define the drawing context of the canvas Element
 var ctx = canvas.getContext('2d')
-
+//
 var galaxy = new Image()
 galaxy.src = "images/galaxy.jpg"
 
