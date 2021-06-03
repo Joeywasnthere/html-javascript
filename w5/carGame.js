@@ -15,6 +15,8 @@ var gameOver = true
 var cheems = new Image()
 cheems.src = 'images/boatman.png'
 
+var 
+
 //var canth = new Image()
 //canth.src = 'images/canth.png'
 
@@ -127,7 +129,7 @@ function drawCar() {
 }
 
 function drawCarImage() {
-    ctx.drawImage(cheems, xpos, canvas.height / 2 - 40, 40, 60)
+    ctx.drawImage(cheems, xpos - 60, canvas.height / 2 - 55, 160, 130)
 }
 
 function drawFuelBar() {
