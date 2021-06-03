@@ -8,6 +8,8 @@ var xpos = 20
 var start = 58
 var finish = 956
 
+var endgame
+
 //boolean for if game is over
 var gameOver = true
 
@@ -15,7 +17,7 @@ var gameOver = true
 var cheems = new Image()
 cheems.src = 'images/boatman.png'
 
-var 
+var e
 
 //var canth = new Image()
 //canth.src = 'images/canth.png'

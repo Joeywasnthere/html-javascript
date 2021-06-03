@@ -28,5 +28,13 @@ h1{
     padding: 10px;
     background-color: rgb(194, 214, 163);
     text-align: left;
+    border: 2px solid black;
+}
+
+#text{
+    width: 970px;
+    text-align: left;
+    background-color: rgb(235, 134, 134);
+
 }
 
